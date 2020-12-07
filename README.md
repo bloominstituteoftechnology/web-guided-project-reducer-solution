@@ -2,7 +2,7 @@
 
 ## [Training Kit] (https://github.com/LambdaSchool/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2002%20-%20Advanced%20State%20Management/Module%201%20-%20The%20Reducer%20Pattern)
 
-### [Previous Lesson Plan] (https://github.com/LambdaSchool/Web-ReducerPattern-Guided-Project)
+### [Previous Lesson Plan](https://github.com/LambdaSchool/Web-ReducerPattern-Guided-Project)
 ----
 
 ## Objectives
