@@ -263,15 +263,26 @@ const [ state, dispatch ] = useReducer(reducer, initialState);
 
 ## After Class Message
 Hope you all enjoyed today's guided Lesson!
-A reminder if that office hours are from 3:30 - 4:30 Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! 
+A reminder if that office hours are from 2:30 - 3:30 Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! 
 
 Module Project
 [Reducer Todo](https://github.com/LambdaSchool/reducer-todo)
 
+Lecture Video: *insert video link*
+Lecture Slides: *insert slides link if applicable*
+
 Here is a review of today's material.
 
 Key Terminology
-* 📝 *term* - [description](#)
+* 📝 *switch* - [a javascript keyword used to streamline complex if else logic](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch)
+* 📝 *action* - [a single piece of data manipulation in a reducer pattern](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
+* 📝 *reducer* - [a pure, predictible immutable function that executes action on state data](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
+* 📝 *immutiblity* - [an object or variable that can not be modified (and thus should only be copied)](https://www.youtube.com/watch?v=5qQQ3yzbKp8)
+* 📝 *pure functions* - [a pure, predictible immutable function that executes action on state data](https://www.youtube.com/watch?v=dZ41D6LDSBg)
 
 Key Concepts
-* 📝 *concept* - [description](#)
+* 📝 *Business Logic* - [The outline of the data and types of manipulations of data needed to create a working application](https://simplicable.com/new/business-logic)
+* 📝 *Application State* - [Data that is used across all of our application's components.](https://www.youtube.com/watch?v=7ilYJAG-_Ug)
+* 📝 *Component State* - [Data that is used within the context of a single component](https://stackoverflow.com/questions/22883759/what-is-the-difference-between-application-state-and-component-local-state-in-cl)
+* 📝 *The Reducer Pattern* - [A design pattern for managing and modularizing out application state.](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
+* 📝 *useReducer Hook* - [A hook used to connect reducers and state to a React component](https://www.geeksforgeeks.org/reactjs-usereducer-hook/)
