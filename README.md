@@ -122,6 +122,137 @@ case "ADD_HOBBY":
 
 ## Guided Project Outline
 
+### Introduction to the Week
+* Started with construction and testing of components
+* This week we will be concentrating on management of state
+
+### Introduction to the Module
+* We are talking about how to look at an application as data, in addition to UI.
+
+### Building on top of Stateful Logic
+* Discuss how data defines the business of our application.
+* Stress that the saving and manipulation of data is at the heart of any application.
+* Stress data organization as a mindset.
+* A manipulation of data is called an action.
+
+## Model the Business logic of Todo App
+* Discuss what is the data of a todo app.
+* Discuss what are the actions of todo app.
+* Stress the focus an clearity of action
+
+## Model the Business logic of Calculator
+* Discuss what is the data of a calculator app.
+* Discuss what are the actions of calculator app.
+
+## Model the Business logic of Coffeeshop
+* Discuss what is the data of a coffeeshop app.
+* Discuss what are the actions of coffeeshop app.
+
+## The Problems of using Component State for Business Logic
+* Ask what are the issues of using component state to hold business logic.
+* Highlight how simple and messy our state modifications currently are.
+* Highlight the lack of scaling. Need for prop drilling.
+* Define component state as for components not, application.
+
+## Show the value of reducers
+1. Respects seperation of concerns.
+2. Orders our actions and business logic.
+3. Implementation agnostic
+4. Prop drilling is not needed.
+5. Immutable, predictable and single source of truth.
+
+### BREAK
+
+### Walkthrough Reducer Calls
+* Show reducer code we already have briefly.
+* Walk through a reducer call.
+* Open up review project.
+* Call the reducer with a new current value with an ADD action.
+* Call the reducer with a new current value with an SUBTRACT action.
+* Discuss the componsition of entire state object.
+* Call the reducer with a new current value with an ADD_TO_MEMORY action.
+* Show that we are now simulating all of our calulator functions.
+
+### Show the use of creating actions.
+* Show that making action creators allow us to note make redundent code.
+* Make an addAction action creator.
+* Make a subtractAction action creator.
+* Modularize all of our actions.
+
+### Show how we would go about adding in new actions.
+* Add multiplication action in reducer and action creator.
+  1. Add in an action to our reducer.
+  2. Add in an action creator.
+  3. Use it in our code.
+
+### Show the use of constants in action creators.
+* Easy to get into spelling mishaps when having random strings.
+* Constants make it easiler to map.
+
+### Linking reducer functions to our ui
+* We will be using two, useReducer and redux.
+* Add in our useReducer hook and 3 buttons that work with our reducer.
+```js
+const [ state, dispatch ] = useReducer(reducer, initialState);
+```
+* Add in state from useReducer hook.
+* Add in eventListeners to trigger our actions.
+* Note that we need to trigger that action and also rerender our application. It needs to be reactive. This is what dispatch does.
+* Go through the reactive process of dispatch.
+
+### Walkthrough Dispatch
+1. Start at the component
+2. Trigger an action
+3. Pass that action to dispatch
+4. Update State in reducer.
+5. Rerender.
+
+### Note the similarities between this and state reactivity.
+
+### BREAK
+
+### Walkthrough our followAlong.
+* Show the solution code.
+* Highlight that we are currently using state and will convert that to reducers.
+* Note the editing flag and flags in general as a part of state.
+
+### Walkthrough Reducer Creation
+1. Create the recuder file first.
+2. Build out your actions.
+3. Connect your UI.
+
+### NOTE THAT YOU SHOULD DO ONE THING AT A TIME!!!!
+
+### Create your reducer
+# Create folder and file.
+# Note that every reducer is just an immutable function that modifies state.
+# Create function.
+# Create switch on type.
+# Create cases.
+# Make initialState.
+# Add default.
+
+### Test your reducer
+# Import reducer into your main code.
+# Connect useReducer.
+
+### Edit Reducer Code.
+# Note the return of modified state in each action.
+
+### Add Action Creators
+# Add folder and file.
+# Create and export actions.
+# Add your constants
+
+### Test actions
+# Make a fake button to show the action works.
+
+### Connect to UI
+# Put in state for display
+# Put in dispatch of action creators for event handlers.
+
+### Final walkthrough of reducer code.
+
 
 ### Module Project Review
 * [Reducer Todo](https://github.com/LambdaSchool/reducer-todo)
