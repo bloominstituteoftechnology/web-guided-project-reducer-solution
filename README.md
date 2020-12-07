@@ -1,6 +1,6 @@
 # Sprint 2 - Module 1 : Reducers
 
-## [Training Kit](https://github.com/LambdaSchool/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2002%20-%20Advanced%20State%20Management/Module%201%20-%20The%20Reducer%20Pattern)
+## [Training Kit] (https://github.com/LambdaSchool/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2002%20-%20Advanced%20State%20Management/Module%201%20-%20The%20Reducer%20Pattern)
 
 ### [Previous Lesson Plan] (https://github.com/LambdaSchool/Web-ReducerPattern-Guided-Project)
 ----
@@ -135,20 +135,20 @@ case "ADD_HOBBY":
 * Stress data organization as a mindset.
 * A manipulation of data is called an action.
 
-## Model the Business logic of Todo App
+### Model the Business logic of Todo App
 * Discuss what is the data of a todo app.
 * Discuss what are the actions of todo app.
 * Stress the focus an clearity of action
 
-## Model the Business logic of Calculator
+### Model the Business logic of Calculator
 * Discuss what is the data of a calculator app.
 * Discuss what are the actions of calculator app.
 
-## Model the Business logic of Coffeeshop
+### Model the Business logic of Coffeeshop
 * Discuss what is the data of a coffeeshop app.
 * Discuss what are the actions of coffeeshop app.
 
-## The Problems of using Component State for Business Logic
+### The Problems of using Component State for Business Logic
 * Ask what are the issues of using component state to hold business logic.
 * Highlight how simple and messy our state modifications currently are.
 * Highlight the lack of scaling. Need for prop drilling.
