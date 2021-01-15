@@ -265,11 +265,9 @@ const [ state, dispatch ] = useReducer(reducer, initialState);
 Hope you all enjoyed today's guided Lesson!
 A reminder if that office hours are from 2:30 - 3:30 Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! 
 
-Module Project
-[Reducer Todo](https://github.com/LambdaSchool/reducer-todo)
-
-Lecture Video: *insert video link*
-Lecture Slides: *insert slides link if applicable*
+Module Project: [Reducer Todo](https://github.com/LambdaSchool/reducer-todo)
+Lecture Video: https://www.youtube.com/watch?v=9fsarwPVJc8&list=PLWX9jswdDQ0X-xzXG8jI9o9LNyYULSNcK&index=13
+Lecture Slides: https://docs.google.com/presentation/d/1XhCZWfyGUbxRAuhHvf38baQBcn4sl5jxZjSjKCSPFqw/edit?usp=sharing
 
 Here is a review of today's material.
 
