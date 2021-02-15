@@ -39,8 +39,11 @@ By the end of this module, learners should be able to:
 > Unit 3 | Sprint 2 | **Module 1: Reducers**
 > _______________________________________________________
 > Zoom Link : *insert zoom link*
+>
 > Slido: *insert slido link*
+>
 > Guided Project: https://github.com/LambdaSchool/web-guided-project-reducer
+>
 > Class Project: https://github.com/LambdaSchool/reducer-todo
 
 ----
