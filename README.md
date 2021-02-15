@@ -227,32 +227,32 @@ const [ state, dispatch ] = useReducer(reducer, initialState);
 ### NOTE THAT YOU SHOULD DO ONE THING AT A TIME!!!!
 
 ### Create your reducer
-# Create folder and file.
-# Note that every reducer is just an immutable function that modifies state.
-# Create function.
-# Create switch on type.
-# Create cases.
-# Make initialState.
-# Add default.
+1. Create folder and file.
+2. Note that every reducer is just an immutable function that modifies state.
+3. Create function.
+4. Create switch on type.
+5. Create cases.
+6. Make initialState.
+7. Add default.
 
 ### Test your reducer
-# Import reducer into your main code.
-# Connect useReducer.
+1. Import reducer into your main code.
+2. Connect useReducer.
 
 ### Edit Reducer Code.
-# Note the return of modified state in each action.
+1. Note the return of modified state in each action.
 
 ### Add Action Creators
-# Add folder and file.
-# Create and export actions.
-# Add your constants
+1. Add folder and file.
+2. Create and export actions.
+3. Add your constants
 
 ### Test actions
-# Make a fake button to show the action works.
+1. Make a fake button to show the action works.
 
 ### Connect to UI
-# Put in state for display
-# Put in dispatch of action creators for event handlers.
+1. Put in state for display
+2. Put in dispatch of action creators for event handlers.
 
 ### Final walkthrough of reducer code.
 
