@@ -17,8 +17,8 @@ By the end of this module, learners should be able to:
 ## Instructor Resources
 * 🐙 [Guided Project Starter](https://github.com/LambdaSchool/web-guided-project-reducer)
 * 🐙 [Guided Project Solution](https://github.com/LambdaSchool/web-guided-project-reducer-solution)
-* 🐙 [Module Project](https://github.com/LambdaSchool/reducer-todo)
-* 🐙 [Module Project Solution]()
+* 🐙 [Module Project](https://github.com/LambdaSchool/web-module-project-reducer)
+* 🐙 [Module Project Solution](https://github.com/LambdaSchool/web-module-project-reducer-solution)
 
 ----
 

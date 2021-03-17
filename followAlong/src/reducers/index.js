@@ -5,7 +5,6 @@ const reducer = (state, action)=> {
         case(SET_TITLE):
             return({...state, title:action.payload});
         case(SET_EDITING):
-            
             return({...state, editing:action.payload});
         case(SET_NEWTEXTTITLE):
             return({...state, newTitleText:action.payload})

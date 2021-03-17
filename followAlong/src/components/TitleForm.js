@@ -11,6 +11,7 @@ const TitleForm = (props)=> {
 
     const handleClick = ()=> {
         props.handleClick(newTitleText, false);
+        setNewTitleText("");
     }
 
     return(<div>
