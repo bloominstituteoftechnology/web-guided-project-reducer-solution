@@ -23,20 +23,22 @@ By the end of this module, learners should be able to:
 ----
 
 ## Guided Project Slack Message
+> **Welcome to Unit 3**
 > 1. Clone without forking the following repo: https://github.com/LambdaSchool/web-guided-project-reducer
 > 2. Navigate into both the review and followAlong folders and run npm i to load dependences.
 >
 > :point_right: Technical issues spinning up the project? Please head over to the help channel!
+>
 > :point_right: If you fall behind during lecture and wish to catch up:
 >
-> git fetch && git reset --hard origin/lecture
+> `git fetch && git reset --hard origin/lecture`
 >
 > :point_right: Slido event: *insert slido link*
 
 ----
 
 ## Guided Project Zoom Invitation:
-> Unit 3 | Sprint 2 | **Module 1: Reducers**
+> **Unit 3 | Sprint 2 | Module 1: Reducers**
 > _______________________________________________________
 > Zoom Link : *insert zoom link*
 >
@@ -44,7 +46,7 @@ By the end of this module, learners should be able to:
 >
 > Guided Project: https://github.com/LambdaSchool/web-guided-project-reducer
 >
-> Class Project: https://github.com/LambdaSchool/reducer-todo
+> Class Project: https://github.com/LambdaSchool/web-module-project-reducer
 
 ----
 
@@ -266,9 +268,12 @@ const [ state, dispatch ] = useReducer(reducer, initialState);
 
 ## After Class Message
 Hope you all enjoyed today's guided Lesson!
-A reminder if that office hours are from 2:30 - 3:30 Lambda Time. Don't forget to complete the days Check for Understanding and Pulse Checks! 
 
-Module Project: [Reducer Todo](https://github.com/LambdaSchool/reducer-todo)
+A reminder if that office hours are from 2:30 - 3:00 Lambda Time. 
+
+Don't forget to complete the days Check for Understanding and Pulse Checks! 
+
+Module Project: https://github.com/LambdaSchool/web-module-project-reducer
 Lecture Video: https://www.youtube.com/watch?v=9fsarwPVJc8&list=PLWX9jswdDQ0X-xzXG8jI9o9LNyYULSNcK&index=13
 Lecture Slides: https://docs.google.com/presentation/d/1XhCZWfyGUbxRAuhHvf38baQBcn4sl5jxZjSjKCSPFqw/edit?usp=sharing
 
