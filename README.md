@@ -276,8 +276,7 @@ const [ state, dispatch ] = useReducer(reducer, initialState);
 ### Module Materials
 Module Project: https://github.com/LambdaSchool/web-module-project-reducer
 GP Slides: https://docs.google.com/presentation/d/1XhCZWfyGUbxRAuhHvf38baQBcn4sl5jxZjSjKCSPFqw/edit?usp=sharing
-GP Video: (processing)
-GP Slides: https://docs.google.com/presentation/d/1XhCZWfyGUbxRAuhHvf38baQBcn4sl5jxZjSjKCSPFqw/edit?usp=sharing
+Thursday's Module Project Review: https://www.loom.com/share/94ff7b7e39c349d4875dfd607e10e0e3 PW: yzlGYI
 Alternative GP Video: [Dustin Myers](https://youtu.be/bMWoQfNzn-U) | [Josh Jacobson](https://youtu.be/1Jflvc3Dl_Q) | [Warren C. Longmire](https://youtu.be/E9M6-cRVDt4) | [Brian Kirkby](https://youtu.be/qfarRzchOE4)
 
 ### Key Terminology
