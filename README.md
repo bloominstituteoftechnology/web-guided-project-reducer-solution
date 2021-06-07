@@ -38,7 +38,7 @@ By the end of this module, learners should be able to:
 ----
 
 ## Guided Project Zoom Invitation:
-> **Unit 3 | Sprint 2 | Module 1: Reducers**
+> **Unit 3 | Sprint 2 | Module 1: The Reducer Pattern**
 > _______________________________________________________
 > Zoom Link : https://lambdaschool.zoom.us/my/unit3withwarren
 >
