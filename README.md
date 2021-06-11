@@ -293,3 +293,6 @@ Alternative GP Video: [Dustin Myers](https://youtu.be/bMWoQfNzn-U) | [Josh Jacob
 * 📝 *The Reducer Pattern* - [A design pattern for managing and modularizing out application state.](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
 * 📝 *useReducer Hook* - [A hook used to connect reducers and state to a React component](https://www.geeksforgeeks.org/reactjs-usereducer-hook/)
 * 📝 *What does dispatch do?* - [Awesome article by our own @Dustin Myers on the inner workings of dispatch](https://dev.to/dustinmyers/what-even-is-a-dispatch-function-27ma)
+
+### Stretch Tutorial
+* 📝 *Business Logic* - [The outline of the data and types of manipulations of data needed to create a working application](https://simplicable.com/new/business-logic)

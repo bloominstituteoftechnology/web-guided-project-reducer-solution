@@ -1,4 +1,11 @@
+
 import { SET_TITLE, SET_EDITING, SET_NEWTEXTTITLE} from './../actions';
+
+export const initialState = {
+    title: 'Hello earthlings',
+    editing: false,
+    newTitleText: ''
+}
 
 const reducer = (state, action)=> {
     switch(action.type){
