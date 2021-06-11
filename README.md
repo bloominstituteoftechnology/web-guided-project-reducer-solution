@@ -33,12 +33,12 @@ By the end of this module, learners should be able to:
 >
 > `git fetch && git reset --hard origin/lecture`
 >
-> :point_right: Slido event: *insert slido link*
+> :point_right: Slido event: https://app.sli.do/event/msea4w8q
 
 ----
 
 ## Guided Project Zoom Invitation:
-> **Unit 3 | Sprint 2 | Module 1: Reducers**
+> **Unit 3 | Sprint 2 | Module 1: The Reducer Pattern**
 > _______________________________________________________
 > Zoom Link : https://lambdaschool.zoom.us/my/unit3withwarren
 >
