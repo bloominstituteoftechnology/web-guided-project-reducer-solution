@@ -1,8 +1,8 @@
 # Sprint 2 - Module 1 : Reducers
 
-## [Training Kit](https://github.com/LambdaSchool/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2002%20-%20Advanced%20State%20Management/Module%201%20-%20The%20Reducer%20Pattern)
+## [Training Kit](https://github.com/bloominstituteoftechnology/Full-Stack-Web-Curriculum/tree/main/03-WebApplications-II/Sprint%2002%20-%20Advanced%20State%20Management/Module%201%20-%20The%20Reducer%20Pattern)
 
-### [Previous Lesson Plan](https://github.com/LambdaSchool/Web-ReducerPattern-Guided-Project)
+### [Previous Lesson Plan](https://github.com/bloominstituteoftechnology/Web-ReducerPattern-Guided-Project)
 ----
 
 ## Objectives
@@ -15,10 +15,10 @@ By the end of this module, learners should be able to:
 ----
 
 ## Instructor Resources
-* 🐙 [Guided Project Starter](https://github.com/LambdaSchool/web-guided-project-reducer)
-* 🐙 [Guided Project Solution](https://github.com/LambdaSchool/web-guided-project-reducer-solution)
-* 🐙 [Module Project](https://github.com/LambdaSchool/web-module-project-reducer)
-* 🐙 [Module Project Solution](https://github.com/LambdaSchool/web-module-project-reducer-solution)
+* 🐙 [Guided Project Starter](https://github.com/bloominstituteoftechnology/web-guided-project-reducer)
+* 🐙 [Guided Project Solution](https://github.com/bloominstituteoftechnology/web-guided-project-reducer-solution)
+* 🐙 [Module Project](https://github.com/bloominstituteoftechnology/web-module-project-reducer)
+* 🐙 [Module Project Solution](https://github.com/bloominstituteoftechnology/web-module-project-reducer-solution)
 
 ----
 
@@ -274,9 +274,8 @@ const [ state, dispatch ] = useReducer(reducer, initialState);
 **Here is a review of today's material.**
 
 ### Module Materials
-Module Project: https://github.com/LambdaSchool/web-module-project-reducer
+Module Project: https://github.com/bloominstituteoftechnology/web-module-project-reducer
 GP Slides: https://docs.google.com/presentation/d/1XhCZWfyGUbxRAuhHvf38baQBcn4sl5jxZjSjKCSPFqw/edit?usp=sharing
-Thursday's Module Project Review: https://www.loom.com/share/94ff7b7e39c349d4875dfd607e10e0e3
 Alternative GP Video: [Dustin Myers](https://youtu.be/bMWoQfNzn-U) | [Josh Jacobson](https://youtu.be/1Jflvc3Dl_Q) | [Warren C. Longmire](https://youtu.be/E9M6-cRVDt4) | [Brian Kirkby](https://youtu.be/qfarRzchOE4)
 
 ### Key Terminology
@@ -292,7 +291,7 @@ Alternative GP Video: [Dustin Myers](https://youtu.be/bMWoQfNzn-U) | [Josh Jacob
 * 📝 *Component State* - [Data that is used within the context of a single component](https://stackoverflow.com/questions/22883759/what-is-the-difference-between-application-state-and-component-local-state-in-cl)
 * 📝 *The Reducer Pattern* - [A design pattern for managing and modularizing out application state.](https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow)
 * 📝 *useReducer Hook* - [A hook used to connect reducers and state to a React component](https://www.geeksforgeeks.org/reactjs-usereducer-hook/)
-* 📝 *What does dispatch do?* - [Awesome article by our own @Dustin Myers on the inner workings of dispatch](https://dev.to/dustinmyers/what-even-is-a-dispatch-function-27ma)
+* 📝 *What does dispatch do?* - [Awesome article by Bloomtech Alum(https://dev.to/dustinmyers/what-even-is-a-dispatch-function-27ma)
 
 ### Stretch Tutorial
 * 📝 *Business Logic* - [The outline of the data and types of manipulations of data needed to create a working application](https://simplicable.com/new/business-logic)
